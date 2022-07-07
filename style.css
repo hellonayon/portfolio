@@ -98,3 +98,11 @@ img  {
         border-color: transparent;
     }
 }
+.myphoto{
+        margin-left: 10%;
+        margin-right: auto;
+        border: double 2px transparent;
+        border-radius: 10px;
+        background-image: transparent;
+        justify-content: space-between;
+}
